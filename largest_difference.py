@@ -1,3 +1,4 @@
+# write question here
 n = int(input("Enter number of elements: "))
 a = []
 for i in range(0,n):
@@ -11,5 +12,3 @@ for i in range (0,n):
 	if a[i] < y :
 		y = a[i]
 print(x-y)
-
-
